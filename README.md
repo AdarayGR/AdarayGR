@@ -1,5 +1,5 @@
 # Hi, I'm Alonso!  
-### *Energy Engineer | Aspiring Data Engineer | SQL & Python Enthusiast*
+> ### *Energy Engineer | Aspiring Data Engineer | SQL & Python Enthusiast*
 
 I'm an Energy Engineer passionate about turning raw data into reliable insights. I genuinely enjoy transforming complex datasets into clean, structured solutions.
 
@@ -10,7 +10,12 @@ My absolute favorite tools for transforming and analyzing data are **SQL** and *
 > 💡 **Fun fact:** I'm a simple person who doesn’t like to over-engineer solutions. So, when the dataset is small enough, I happily go back to basics — sometimes using Power Query in Excel, and other times even PowerShell in Windows. It keeps things efficient and fun!
 
 ---
+### Badges 🗂
+- **[Google Skills](https://www.skills.google/public_profiles/be427dc7-9aa0-4f14-a80d-15abea8d0801)**
+- **[Credly Badges](https://www.credly.com/users/alonso-gomez-rivera/badges/credly)**
+
+---
 ### Let's connect!
 Feel free to reach out to me and share any recommendations. Thank You!
 
-**LinkedIn:** [linkedin.com/in/adaray](https://www.linkedin.com/in/adaray)
+- **[LinkedIn](https://www.linkedin.com/in/adaray)**
